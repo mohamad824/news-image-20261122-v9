@@ -1,0 +1,12 @@
+Fonts in this directory — Liberation Serif (Regular, Bold, Italic, Bold Italic)
+— are licensed under the SIL Open Font License, Version 1.1.
+
+Digitized data copyright (c) 2010 Google Corporation with Reserved Font
+Arimo, Tinos and Cousine. Copyright (c) 2012 Red Hat, Inc. with Reserved
+Font Name Liberation.
+
+The full text of the SIL Open Font License 1.1 is available at
+https://openfontlicense.org/ and in the Liberation Fonts distribution
+(https://github.com/liberationfonts). In short: the fonts may be used,
+studied, modified and redistributed freely, provided the license is
+included and the Reserved Font Names are not used in modified versions.
